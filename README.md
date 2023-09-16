@@ -10,7 +10,7 @@ The key features of the application.
 - Closing works with the close button only
 
 ## Deployed link
-[link](https://flam-nu.vercel.app)
+[link](https://flam-harishreyya.vercel.app/)
 
 ## Installation or How to run the app
 If you want to run our code then please read the instructions below :
