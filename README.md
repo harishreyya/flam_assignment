@@ -10,11 +10,11 @@ The key features of the application.
 - Closing works with the close button only
 
 ## Deployed link
-[link]()
+[link](https://flam-nu.vercel.app)
 
 ## Installation or How to run the app
 If you want to run our code then please read the instructions below :
-- Clone our repository []()
+- Clone our repository [https://flam-nu.vercel.app](https://github.com/harishreyya/flam_assignment.git)](https://github.com/harishreyya/flam_assignment.git)
 - Open the code in your VS code
 - Now run `npm install` or `npm i` which will install all the required packages of node
 - After installation, now run `npm start` and you will see a new window opening in the default browser which is running on port `http://localhost:3000`
@@ -22,5 +22,5 @@ If you want to run our code then please read the instructions below :
 
 
 ## Technology Stack
-List and provide a brief overview of the technologies used in the project.
+A brief overview of the technologies used in the project.
 - React JS
